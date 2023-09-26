@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'aminepython'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_628A01FCCCFA4C28B8284FEE8B273AFE }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_BFBED955D5DC4CC2A5EA1002316078F3 }}
